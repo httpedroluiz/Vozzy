@@ -23,7 +23,7 @@ This project was developed with the following technologies:
 
 This project is a landing page for a karaoke application, focused on practicing and mastering responsive design. The page is designed to provide a seamless user experience across various devices and screen sizes. Feel free to explore and contribute!
 
-[Click here to access the website](https://httpedroluiz.github.io/Zingen/)
+[Click here to access the website](https://httpedroluiz.github.io/Vozzy/)
 
 ## 🎨 Layout
 
